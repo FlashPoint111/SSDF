@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.venv-train/
+.venv-context/
+.env
+vendor/
+data/
+outputs/
+checkpoints/
+*.pt
+*.pth
+*.safetensors
+*.npz
+*.mp4
+*.avi
+*.mov
